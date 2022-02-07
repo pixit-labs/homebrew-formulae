@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-brew tap pixit-labs/formulae
+brew tap pixit-labs/apple-swift-format
 ```
 
 ## Available Taps
