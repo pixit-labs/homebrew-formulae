@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-brew tap exyte/formulae
+brew tap pixit-labs/formulae
 ```
 
 ## Available Taps
